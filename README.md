@@ -28,5 +28,3 @@ Espero que você se divirta jogando este jogo tanto quanto eu me diverti criando
 1. Abra o link https://editor.p5js.org/Lamonier-Barbosa/full/vZt_UaPIQ no seu navegador.
 2. Use as setas do teclado para cima e para baixo para mover a vaquinha.
 3. Tente evitar os carros enquanto atravessa a rua.
-
-<iframe src="https://editor.p5js.org/Lamonier-Barbosa/full/vZt_UaPIQ"></iframe>
